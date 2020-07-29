@@ -381,9 +381,9 @@
 
   // My printer
 
-#define  DEFAULT_Kp 24.75
-#define  DEFAULT_Ki 2.32
-#define  DEFAULT_Kd 65.90
+#define DEFAULT_Kp 27.33
+#define DEFAULT_Ki 2.49
+#define DEFAULT_Kd 75.01
 
   // Ultimaker
   //#define DEFAULT_Kp 22.2
@@ -437,9 +437,9 @@
 
   //120V 250W silicone heater into 4mm borosilicate (MendelMax 1.5+)
   //from FOPDT model - kp=.39 Tp=405 Tdead=66, Tc set to 79.2, aggressive factor of .15 (vs .1, 1, 10)
-  #define  DEFAULT_bedKp 1050.71
-  #define  DEFAULT_bedKi 206.87
-  #define  DEFAULT_bedKd 1334.14
+  #define DEFAULT_bedKp 324.99
+  #define DEFAULT_bedKi 64.00
+  #define DEFAULT_bedKd 412.57
 
   //120V 250W silicone heater into 4mm borosilicate (MendelMax 1.5+)
   //from pidautotune
